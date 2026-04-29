@@ -4,6 +4,8 @@ Ultra-premium SaaS landing page and interactive product preview for an AI agent 
 
 AgentOps Control Hub presents a control layer for AI agent workflows: secure tool access, policy enforcement, human approvals, audit logs, observability, risk scoring, and evaluation scorecards.
 
+[Live demo](https://danieloza.github.io/agentops-control-hub/)
+
 ![AgentOps Control Hub preview](docs/preview.png)
 
 ## Highlights
