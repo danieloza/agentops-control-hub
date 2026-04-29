@@ -17,6 +17,12 @@ AgentOps Control Hub presents a control layer for AI agent workflows: secure too
 - Tooltip guidance for dashboard controls
 - Responsive React + TypeScript + Tailwind implementation
 
+## Why It Matters
+
+AI agents become operational systems once they can access tools, data, and business workflows. At that point, teams need more than a prompt interface: they need policy boundaries, human approval paths, audit logs, risk visibility, and evaluation signals.
+
+AgentOps Control Hub demonstrates the product surface for that control layer. It shows how agent runs can be reviewed through approvals, secure tool access, incident signals, risk scoring, and evaluation scorecards before sensitive automation is trusted in production-like workflows.
+
 ## Tech Stack
 
 - React
@@ -41,3 +47,7 @@ npm run build
 ## Project Intent
 
 This project is part of a practical AI systems portfolio focused on agent operations, governance, approvals, auditability, observability, and production-oriented control layers.
+
+## License
+
+MIT
